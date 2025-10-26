@@ -12,7 +12,7 @@ Each group will work together to create a document in the programming language c
 
 ## Step 1: Understanding Markdown
 
-Markdown is the name for when you add a set of specific characters to the text in order to generate a different look-and-feel on a published web page. For example, the heading used just above, for 'Step 1: Understanding Markdown' has two hashtags in front of it so that on the published website it displays in a different style from the main body text. 
+Markdown is the name for when you add a set of specific characters to the text in order to generate a different look-and-feel on a published web page. For example on [the markdown file for this page](https://raw.githubusercontent.com/amaranth-unm/music-history/refs/heads/main/instructions.md), the heading used just above, for 'Step 1: Understanding Markdown' has two hashtags in front of it so that on the published website it displays in a different style from the main body text. 
 
 Using markdown is very easy because knowing only a few of these little characters gives you a lot of power over the look-and-feel of your web page. 
 
