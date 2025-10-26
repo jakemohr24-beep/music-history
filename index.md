@@ -6,7 +6,7 @@ date: 2025-10-21
 
 {% include jumbotron.html
   height="50vh"
-  image-path="/assets/images/396-banner.jpg"
+  image-path="/assets/images/1920s-banner.png"
   title=""
 %}
 
