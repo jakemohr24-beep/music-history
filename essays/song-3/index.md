@@ -1,5 +1,5 @@
 ---
-title: West End Blues
+title: Song 3
 position: 3
 author: Student Name
 layout: base
