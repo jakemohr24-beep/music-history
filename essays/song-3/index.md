@@ -87,19 +87,19 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 ## Bibliography
 
-- Advertisement for Louis Armstrong, “West End Blues,” Okeh Records. The Pittsburgh Courier, 1928. Wikimedia Commons, https://commons.wikimedia.org/wiki/File:West_End_Blues_Louis_Armstrong_Okeh_Ad_1928.jpg
+- Advertisement for Louis Armstrong, “West End Blues,” Okeh Records. The Pittsburgh Courier, 1928. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:West_End_Blues_Louis_Armstrong_Okeh_Ad_1928.jpg
 
 - Anderson, Gene H. 2013. “The Origin of Armstrong’s Hot Fives and Hot Sevens.” College Music Symposium 43:13‑24. https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1012&context=music-faculty-publications
 
 - “Blues People, Music, and Folklore.” Journal of Folklore and Education, accessed October 28, 2025. https://www.locallearningnetwork.org.
 
-- Discography of American Historical Recordings, s.v. "Brunswick matrix E27685. West End blues / Dixie Syncopators ; King Oliver," accessed October 28, 2025, https://adp.library.ucsb.edu/index.php/matrix/detail/2000226777/E27685-West_End_blues.
+- Discography of American Historical Recordings, s.v. "Brunswick matrix E27685. West End blues / Dixie Syncopators ; King Oliver," accessed October 28, 2025. https://adp.library.ucsb.edu/index.php/matrix/detail/2000226777/E27685-West_End_blues.
 
-- Discography of American Historical Recordings, s.v. "OKeh matrix W400967. West End blues / Louis Armstrong ; Hot Five," accessed October 28, 2025, https://adp.library.ucsb.edu/index.php/matrix/detail/2000209787/W400967-West_End_blues.
+- Discography of American Historical Recordings, s.v. "OKeh matrix W400967. West End blues / Louis Armstrong ; Hot Five," accessed October 28, 2025. https://adp.library.ucsb.edu/index.php/matrix/detail/2000209787/W400967-West_End_blues.
 
-- Discography of American Historical Recordings, s.v. "Columbia matrix W146881. West End blues / Ethel Waters ; Clarence Williams," accessed October 28, 2025, https://adp.library.ucsb.edu/index.php/matrix/detail/2000036542/W146881-West_End_blues.
+- Discography of American Historical Recordings, s.v. "Columbia matrix W146881. West End blues / Ethel Waters ; Clarence Williams," accessed October 28, 2025. https://adp.library.ucsb.edu/index.php/matrix/detail/2000036542/W146881-West_End_blues.
 
-- Discography of American Historical Recordings, s.v. "OKeh matrix W401083. West End blues / Hazel Smith," accessed October 28, 2025, https://adp.library.ucsb.edu/index.php/matrix/detail/2000209906/W401083-West_End_blues.
+- Discography of American Historical Recordings, s.v. "OKeh matrix W401083. West End blues / Hazel Smith," accessed October 28, 2025. https://adp.library.ucsb.edu/index.php/matrix/detail/2000209906/W401083-West_End_blues.
 
 - Encyclopaedia Britannica. “Louis Armstrong.” Britannica, last modified or accessed October 28, 2025. https://www.britannica.com/biography/Louis-Armstrong.
 
