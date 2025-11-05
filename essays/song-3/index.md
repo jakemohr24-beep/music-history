@@ -48,16 +48,16 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
 
-{% include aside.html class="left" width="80%" text="
--[West End Blues - King Oliver and His Dixie Syncopaters (1928)](https://www.youtube.com/watch?v=9lllieo9w-s&t=23s)
+{% include aside.html class="left" width="80%" height="60%" text="
+-[King Oliver and His Dixie Syncopaters (1928)](https://www.youtube.com/watch?v=9lllieo9w-s&t=23s)
 
--[West End Blues - Louis Armstrong and His Hot Five (1928)](https://www.youtube.com/watch?v=pXHdqTVC3cA)
+-[Louis Armstrong and His Hot Five (1928)](https://www.youtube.com/watch?v=pXHdqTVC3cA)
 
--[West End Blues - Ethel Waters and Clarence Williams (1928)](https://www.youtube.com/watch?v=jU_OaIQpnxA)
+-[Ethel Waters and Clarence Williams (1928)](https://www.youtube.com/watch?v=jU_OaIQpnxA)
 
--[West End Blues - Clarence Williams, King Oliver, and Hazel Smith (1928)](https://www.youtube.com/watch?v=xK69BgJl42Y)
+-[Clarence Williams, King Oliver, and Hazel Smith (1928)](https://www.youtube.com/watch?v=xK69BgJl42Y)
 
--[West End Blues - Fred Hall’s Jazz Band (1928)](https://www.youtube.com/watch?v=z9hxwofOja0)
+-[Fred Hall’s Jazz Band (1928)](https://www.youtube.com/watch?v=z9hxwofOja0)
 " %}
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
