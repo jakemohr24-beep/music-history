@@ -18,9 +18,7 @@ tags:
 ---
 
 # West End Blues
-This template shows a basic essay with a few images, captions, and section headings. The design difficulty of this template is 'Seedling' level.
-
-Most of the text is just dummy text to keep the focus on the page elements.
+“West End Blues” was originally a Southern blues piece by Joe “King” Oliver that wasn’t very popular until trumpeter Louis Armstrong from New Orleans, Louisiana, transformed it into an extraordinary song that hit and was popular back in 1928, which he recorded in Chicago back in the late 1920s. It is known as the song that changed jazz music forever.
 
 
 ## West End Blues Background History - Louis Armstrong and His Hot Five
