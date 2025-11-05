@@ -48,7 +48,7 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
 
-{% include aside.html class="left" width="125%" text="
+{% include aside.html class="left" width="80%" text="
 -[West End Blues - King Oliver and His Dixie Syncopaters (1928)](https://www.youtube.com/watch?v=9lllieo9w-s&t=23s)
 
 -[West End Blues - Louis Armstrong and His Hot Five (1928)](https://www.youtube.com/watch?v=pXHdqTVC3cA)
