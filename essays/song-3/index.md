@@ -52,15 +52,17 @@ Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibul
 width="60%" 
 height
 text="
--[King Oliver & His Dixie Syncopaters (1928)](https://www.youtube.com/watch?v=9lllieo9w-s&t=23s)
----
--[Louis Armstrong & His Hot Five (1928)](https://www.youtube.com/watch?v=pXHdqTVC3cA)
----
--[Ethel Waters & Clarence Williams (1928)](https://www.youtube.com/watch?v=jU_OaIQpnxA)
----
--[Clarence Williams, King Oliver, & Hazel Smith (1928)](https://www.youtube.com/watch?v=xK69BgJl42Y)
----
--[Fred Hall’s Jazz Band (1928)](https://www.youtube.com/watch?v=z9hxwofOja0)
+-[King Oliver & His Dixie Syncopaters](https://www.youtube.com/watch?v=9lllieo9w-s&t=23s)
+
+-[Louis Armstrong & His Hot Five](https://www.youtube.com/watch?v=pXHdqTVC3cA)
+
+-[Ethel Waters & Clarence Williams](https://www.youtube.com/watch?v=jU_OaIQpnxA)
+
+-[Clarence Williams, King Oliver, & Hazel Smith](https://www.youtube.com/watch?v=xK69BgJl42Y)
+
+-[Fred Hall’s Jazz Band](https://www.youtube.com/watch?v=z9hxwofOja0)
+
+*all performed in 1928*
 " %}
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
