@@ -28,8 +28,8 @@ Most of the text is just dummy text to keep the focus on the page elements.
 {% include figure.html
 class="right" 
 width="48%" 
-caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](essays/song-5/images/record-blue-yodel.jpeg.png)" 
-image-path="images/mvh-history-stays.jpg" 
+caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://www.45cat.com/78rpm/record/21142#google_vignette)" 
+image-path="essays/song-5/images/record-blue-yodel.jpeg.png" 
 %}
 
 “[Verse 1]
