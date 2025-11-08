@@ -91,19 +91,21 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 
 
 ## Jimmie Rodgers
-  "Who is Jimme Rodgers"
+ "Who is Jimme Rodgers"
 
-        James Charles Rodgers, or also known as Jimmie Rodgers was a famous country and blues singer, as well as being the popular singer of the song T for Texas. He was born in 1897 in Meridian, Mississippi, he stayed there up until the death of his mother four years later. Jimmie Rodger's Father was left alone with a child as he worked as a foreman, because of his father's work, Jimmie Rodgers got exposed to the very thing that would make him famous!
+James Charles Rodgers, or also known as Jimmie Rodgers was a famous country and blues singer, as well as being the popular singer of the song T for Texas. He was born in 1897 in Meridian, Mississippi, he stayed there up until the death of his mother four years later. Jimmie Rodger's Father was left alone with a child as he worked as a foreman, because of his father's work, Jimmie Rodgers got exposed to the very thing that would make him famous!
 
-                            You see, 10 years after his mother's dead, Jimmie dropped school and instead worked with his father in the rail roads. His job was to carry water for the African American workers, while he would work, "They taught him the guitar and the banjo. They taught him work songs, field hollers, chants" (Blue Yodeler: Jimmie Rodgers, Bland Simpson, Volume 12, 2006)
+You see, 10 years after his mother's dead, Jimmie dropped school and instead worked with his father in the rail roads. His job was to carry water for the African American workers, while he would work, "They taught him the guitar and the banjo. They taught him work songs, field hollers, chants" (Blue Yodeler: Jimmie Rodgers, Bland Simpson, Volume 12, 2006)
 
-          When Jimmie returned to Meridian, he met a woman!
+ When Jimmie returned to Meridian, he met a woman!
 
 A few years later, he and his wife had two young girls, Carrie Anita and June. Unfortunately, In December of 1923, June had died from, money was tight, he had a failed project, a failed marriage and a funeral to plan, with very little choice, Jimmie Rodgers was forced to go back to the railroads as a worker. While hard at work, Jimmie ended up in Colorado and Utah, where he seemed to not be able to catch a break, for you see, he ended up catching Tuberculous...the doctor said that he will need to quit his railroad work for good.  
 
-                Once he recovered, Jimmie and his sister-in-law would do public performances to try and gather some cash, however, this life bored him. Instead, he set off on his own, creating his own kind of yodel, the blue yodel. After this, Jimmie rogers' popularity skyrocketed! Even during the Stock Market crash in 1929, people couldn't get enough of him! 
+Once he recovered, Jimmie and his sister-in-law would do public performances to try and gather some cash, however, this life bored him. Instead, he set off on his own, creating his own kind of yodel, the blue yodel. After this, Jimmie rogers' popularity skyrocketed! Even during the Stock Market crash in 1929, people couldn't get enough of him! 
 
-     In 1931, there was a drought that affected him greatly. It started with a few coughs but eventually turned violent fits of Tuberculosis. His song releases dropped, as well as his health. Eventually he died in 1933. 
+In 1931, there was a drought that affected him greatly. It started with a few coughs but eventually turned violent fits of Tuberculosis. His song releases dropped, as well as his health. Eventually he died in 1933. 
+
+
 
 {% include aside.html class="right" text="
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
