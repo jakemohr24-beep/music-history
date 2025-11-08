@@ -24,7 +24,7 @@ Most of the text is just dummy text to keep the focus on the page elements.
 
 <iframe width="949" height="707" src="https://www.youtube.com/embed/qEIBmGZxAhg" title="Jimmie Rodgers - Blue Yodel No 1 (T For Texas)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Second heading
+## Lyrics
 {% include figure.html 
 class="right" 
 width="48%" 
@@ -32,7 +32,58 @@ caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Sour
 image-path="images/mvh-history-stays.jpg" 
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^1]
+“[Verse 1]
+T for Texas, T for Tennessee
+T for Texas, T for Tennessee
+T for Thelma, that gal that made a wreck out of me
+
+[Refrain]
+Oh-del-lay-ee oh, lay-ee eh, lay-ee
+
+
+[Verse 2]
+If you don't want me mama, you sure don't have to stall, oh Lord
+If you don't want me mama, you sure don't have to stall
+'Cause I can get more women than a passenger train can haul
+
+
+[Refrain]
+Oh-del-lay-ee oh, lay-ee eh, lay-ee
+
+[Verse 3]
+I'm gonna buy me a pistol just as long as I'm tall, Lord Lord
+I'm gonna buy me a pistol just as long as I'm tall
+I'm gonna shoot poor Thelma just to see her jump and fall
+
+
+[Refrain]
+Oh-del-lay-ee eh, lay-ee oh, lay-ee
+
+[Verse 4]
+I'm goin' where the water drinks like cherry wine, sing 'em boy sing 'em
+Lord I'm goin' where the water drinks like cherry wine
+'Cause this Georgia water tastes like turpentine
+
+[Refrain]
+Oh-del-lay-ee eh, lay-ee oh, lay-ee
+
+[Verse 5]
+I'm gonna buy me a shotgun with a great long shiny barrel
+Gonna buy me a shotgun with a great long shiny barrel
+I'm gonna shoot that rounder that stole away my gal
+
+
+[Refrain]
+Oh-del-lay-ee eh, lay-ee oh, lay-ee
+
+[Verse 6]
+Rather drink muddy water sleep in a holler log
+Rather drink muddy water sleep in a holler log
+Than to be in Atlanta treated like a dirty dog
+
+[Refrain]
+Oh-del-lay-ee eh, lay-ee oh, lay-ee
+.[^1]
 
 [^1]: 'This is the footnote text. But I _really want_ italics.
 
