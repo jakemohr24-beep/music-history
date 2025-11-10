@@ -152,9 +152,25 @@ Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. M
 
 
 ## Romance
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
+Is Thelma representing something real that happened to Jimmie Rodgers or is she more
+of a metaphorical character?
+In the song T for Texas, though it is a relatively short song there is a lot to unpack about
+it. Being able to distinguish the real vs metaphorical meaning of aspects within the song also are
+key to analyzing this piece. Jimmie Rodgers often got regarded as the “Father of Country Music”
+because of Blue Yodels #1 which T for Texas appeared on. Now the song's narrative mainly
+covers the relationship between a vengeful husband and a cheating wife, with the husband
+seeking to get rid of the guy her wife cheated on him with. The husband in the narrative also
+brags about how “Cause I can get more women than a passenger train can haul.” (Wynne
+2014). Digging deeper we can see a meaning that is not easily accessible but as a catalyst of
+the genre Jimmie Rodgers also wanted to try something different to stand out by connecting
+country music to blues and doing so by incorporating aspects from both genres and mixing it
+into one (Wynne 2014). Thelma could be a way of lyricizing this in the song, by having her
+represent the creativity that lies within making music and the guy she cheated on her husband
+with the prejudice that lies between country music and blues’ inability to mix previously. For
+example in the fourth stanza it states “I'm gonna shoot that rounder that stole away my gal”
+(Rodgers 1927) this could be mentioning how racial prejudice towards genres of music may be
+harming the genre negatively. Jimmie Rodgers innovated the genre of country and blues by
+emphasizing meaning within his songs.
 
 
 
