@@ -75,7 +75,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 
 ## Where It Was Played and Who Listened
-{% include figure.html class="right" width="60%" caption="Newspaper clipping about Louis Armstrong and His Hot 5". image-path="images/West_End_Blues_Louis_Armstrong_Okeh_Ad_1928.jpg" %}
+{% include figure.html class="right" width="60%" caption="Newspaper clipping about Louis Armstrong and His Hot 5." image-path="images/West_End_Blues_Louis_Armstrong_Okeh_Ad_1928.jpg" %}
 
 While the most iconic recording was made in a Chicago studio by Armstrong’s Hot Five, live performances likely occurred in African-American entertainment districts on the South Side of Chicago and in northern cities that had large Black populations due to the Great Migration (Anderson 2013). 
 
