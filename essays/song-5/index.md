@@ -103,7 +103,7 @@ The words in this song that during the time period would make sense are harder t
 
 
 ## Jimmie Rodgers
-{% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/jimmie-rodgers-in-1921.jpg" %}
+{% include figure.html class="middle" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/jimmie-rodgers-in-1921.jpg" %}
 
  "Who is Jimme Rodgers"
 
