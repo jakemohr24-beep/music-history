@@ -126,7 +126,7 @@ During the refrain sections of the song there is yodeling that is the reason the
 ## History of the song
 {% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
-The song Blue Yodel No. 1 (T for Texas) was origialy created in november 30 1927 and then later published and copyrighted on February 3rd of 1928 and was produced by Ralph Peer is part of a multi-part saga known as the Blue Yodels and was recorded during the Bristol sessions which was considered the “Big bang” of country music
+The song Blue Yodel No. 1 (T for Texas) was origialy created in november 30 1927 and then later published and copyrighted on February 3rd of 1928 and was produced by Ralph Peer is part of a multi-part saga known as the Blue Yodels and was recorded during the Bristol sessions which was considered the “Big bang” of country music but our song has a humble beginning with the first recording session starting in a warehouse the blue yodel was originally used to pad extra space as fluff for the album with other songs that were recorded when they were still blues songs and when the name was needed for the records it was come up with on the spot so it was simply “Blue Yodel” and once the song became popular following songs followed the naming convention and Blue Yodel became Blue Yodel No 1.
 
 ## Romance
 Is Thelma representing something real that happened to Jimmie Rodgers or is she more
