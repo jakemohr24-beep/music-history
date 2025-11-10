@@ -101,7 +101,7 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 ## Bibliography
 
-- Advertisement for Louis Armstrong, “West End Blues,” Okeh Records. The Pittsburgh Courier, 1928. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:West_End_Blues_Louis_Armstrong_Okeh_Ad_1928.jpg
+- Advertisement for Louis Armstrong, [“West End Blues,”](https://commons.wikimedia.org/wiki/File:West_End_Blues_Louis_Armstrong_Okeh_Ad_1928.jpg) Okeh Records. The Pittsburgh Courier, 1928. Wikimedia Commons.
 
 - Anderson, Gene H. 2013. “The Origin of Armstrong’s Hot Fives and Hot Sevens.” College Music Symposium 43:13‑24. https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1012&context=music-faculty-publications
 
