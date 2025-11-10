@@ -78,9 +78,6 @@ Oh-del-lay-ee eh, lay-ee oh, lay-ee
 
 [^1]: 'This is the footnote text. But I _really want_ italics.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 
 ## About the song
@@ -129,6 +126,7 @@ During the refrain sections of the song there is yodeling that is the reason the
 
 ## History of the song
 The song Blue Yodel No. 1 (T for Texas) was origialy created in november 30 1927 and then later published and copyrighted on February 3rd of 1928 and was produced by Ralph Peer is part of a multi-part saga known as the Blue Yodels and was recorded during the Bristol sessions which was considered the “Big bang” of country music but our song has a humble beginning with the first recording session starting in a warehouse the blue yodel was originally used to pad extra space as fluff for the album with other songs that were recorded when they were still blues songs and when the name was needed for the records it was come up with on the spot so it was simply “Blue Yodel” and once the song became popular following songs followed the naming convention and Blue Yodel became Blue Yodel No 1.
+
 
 ## Romance
 Is Thelma representing something real that happened to Jimmie Rodgers or is she more
