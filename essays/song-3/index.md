@@ -97,11 +97,21 @@ The Great Migration brought many Black southerners to northern cities like Chica
 
 - Advertisement for Louis Armstrong, [“West End Blues,”](https://commons.wikimedia.org/wiki/File:West_End_Blues_Louis_Armstrong_Okeh_Ad_1928.jpg) Okeh Records. The Pittsburgh Courier, 1928. Wikimedia Commons.
 
-- Anderson, Gene H. 2013. [“The Origin of Armstrong’s Hot Fives and Hot Sevens.”](https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1012&context=music-faculty-publications) College Music Symposium 43:13‑24. 
+- Anderson, Gene H. 2013. [“The Origin of Armstrong’s Hot Fives and Hot Sevens.”](https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1012&context=music-faculty-publications) College Music Symposium 43:13‑24.
+
+-  Baker, David N., and Luvenia A. George. “Louis Armstrong: The Man and His Life.” In Smithsonian Institution Louis Armstrong Education Kit, 16.
+
+-  Baker, David N., and Luvenia A. George. n.d. [“Louis Armstrong: The Man and His Life.”](https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf.) In Smithsonian Institution Louis Armstrong Education Kit, 15-16. N.p.: National Museum of American History.
+
+-   Clark, John. "VOLUME 1: CALL OF THE FREAKS KING OLIVER AND HIS ORCHESTRA/VOLUME 2: NEW ORLEANS SHOUT KING OLIVER AND HIS ORCHESTRA." IAJRC Journal 40, no. 4 (12, 2007): 65-66
+
+- Clark, John. "VOLUME 1: CALL OF THE FREAKS KING OLIVER AND HIS ORCHESTRA/VOLUME 2: NEW ORLEANS SHOUT KING OLIVER AND HIS ORCHESTRA."
 
 - [“Blues People, Music, and Folklore.”](https://www.locallearningnetwork.org.) Journal of Folklore and Education, accessed October 28, 2025. 
 
-- Discography of American Historical Recordings, s.v. ["Brunswick matrix E27685. West End blues / Dixie Syncopators ; King Oliver,"](https://adp.library.ucsb.edu/index.php/matrix/detail/2000226777/E27685-West_End_blues.) accessed October 28, 2025. 
+- Discography of American Historical Recordings, s.v. ["Brunswick matrix E27685. West End blues / Dixie Syncopators ; King Oliver,"](https://adp.library.ucsb.edu/index.php/matrix/detail/2000226777/E27685-West_End_blues.) accessed October 28, 2025.
+
+- Discography of American Historical Recordings, s.v. ["OKeh matrix W401083. West End blues / Hazel Smith,"](https://adp.library.ucsb.edu/index.php/matrix/detail/2000209906/W401083-West_End_blues.) accessed October 28, 2025, 
 
 - Discography of American Historical Recordings, s.v. ["OKeh matrix W400967. West End blues / Louis Armstrong ; Hot Five,"](https://adp.library.ucsb.edu/index.php/matrix/detail/2000209787/W400967-West_End_blues.) accessed October 28, 2025. 
 
