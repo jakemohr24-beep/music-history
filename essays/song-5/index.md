@@ -123,20 +123,21 @@ In 1931, there was a drought that affected him greatly. It started with a few co
 ## What's the deal with the yodel?
 
 You may be wondering what is with the yodel Jimmie Rodgers performs between the stanzas of
-his songs, this was a defining piece of his work (Citation 4). We have to first understand where
-this yodeling came from, the yodeling heard in his songs originates from slaves vocalizing the
-similar yodels on and off the plantation during their capture (Citation 1). This unique type of
-yodeling is what Jimmie Rodgers incorporated into his songs and was known as a “blues yodel”,
-but since he was a country singer, the blend of these genres made him famous and a pioneer of
-the new subgenre. It had now become his trademark; you could hear his yodel in nearly every
-one of his songs (Citation 2). In his songs it's used to transition from stanza to stanza to keep
-the rhythm of the song going while adding emotional weight each time he performed it, but
-people didn’t just see this as a means of transitioning in the song but rather the main signature
-of the artist and what gave the song character (Citation 3). Jimmie Rodgers’ songs are
-particularly unique because of this element and some could argue he was as big as he was
-because of how unrepeatable and unique he made his songs with this new aspect he
-assimilated within country music. Though we may not hear this style as much today, Jimmie
-Rodgers’ yodel revolutionized country music and has left a lasting effect on the genre
+his songs, this was a defining piece of his work. We have to first understand where this yodeling
+came from, the yodeling heard in his songs originates from slaves vocalizing the similar yodels
+on and off the plantation during their capture (Scarborough and Gulledge, 1925, 226). This
+unique type of yodeling is what Jimmie Rodgers incorporated into his songs and was known as
+a “blues yodel”, but since he was a country singer, the blend of these genres made him famous
+and a pioneer of the new subgenre. It had now become his trademark; you could hear his yodel
+in nearly every one of his songs (Wise 2010, 6-12, 33-39). In his songs it's used to transition
+from stanza to stanza to keep the rhythm of the song going while adding emotional weight each
+time he performed it, but people didn’t just see this as a means of transitioning in the song but
+rather the main signature of the artist and what gave the song character (Seward Daily Gateway
+1928). Jimmie Rodgers’ songs are particularly unique because of this element and some could
+argue he was as big as he was because of how unrepeatable and unique he made his songs
+with this new aspect he assimilated within country music. Though we may not hear this style as
+much today, Jimmie Rodgers’ yodel revolutionized country music and has left a lasting effect on
+the genre.
 
 
 ## History of the song
@@ -144,24 +145,24 @@ The song Blue Yodel No. 1 (T for Texas) was origialy created in november 30 1927
 
 
 ## History Of Country Music
-Jimmie Rodger was a pioneer of country music, but what is country music and where did it
-come from? It was the late 19th century with the invention of the phonograph when music
-really shifted from being a group leisure activity to an individual leisure activity. People
-could now choose what they wanted to listen to and could even record music with it.
-Before the invention there were symphonies and orchestras but these were primarily
-leisure for the really wealthy, the phonograph made music accessible to the middle and
-working class not only to listen but to record as well (Citation 1). This level of accessibility
-allowed people like Jimmie Rodgers, a working man, to now access a means of
-expressing his thoughts and ideas (Citation 2). This leads us into the Bristol Sessions, a
-makeshift recording studio made by Victor Talking Machine Company in a hat factory to
-hopefully get talent for Victor Records. One of the people they had hosted was the country
-music catalyst himself, Jimmie Rodgers. He was one of the very first country music artists
-there was. Country music was being defined by instruments like fiddles and banjos and
-other elements like traditional ballads, gospel music, vaudeville songs, rustic comedy and
-instrumental showcases. Victor Talking Machine Company was able to record and host
-these musicians because of the phonograph (Citation 3). Due to the invention of the
-phonograph and the Bristol Sessions, what we now know as country music
-
+Jimmie Rodgers was a pioneer of country music, but what is country music and where did
+it come from? It was the late 19th century with the invention of the phonograph when
+music really shifted from being a group leisure activity to an individual leisure activity.
+People could now choose what they wanted to listen to and could even record music with
+it. Before the invention there were symphonies and orchestras but these were primarily
+leisure for the really wealthy. The phonograph made music accessible to the middle and
+working class not only to listen but to record as well (Thompson 2016). This level of
+accessibility allowed people like Jimmie Rodgers, a working man, to now access a means
+of expressing his thoughts and ideas (White 1955, 146-147). This leads us into the Bristol
+Sessions, a makeshift recording studio made by Victor Talking Machine Company in a hat
+factory to hopefully get talent for Victor Records. One of the people they had hosted was
+the country music catalyst himself, Jimmie Rodgers. He was one of the very first country
+music artists there was. Country music was being defined by instruments like fiddles and
+banjos and other elements like traditional ballads, gospel music, vaudeville songs, rustic
+comedy and instrumental showcases. Victor Talking Machine Company was able to
+record and host these musicians because of the phonograph (Olson 2025, 262-265). Due
+to the invention of the phonograph and the Bristol Sessions, what we now know as
+country music.
 
 
 ## How the world Responded
@@ -201,19 +202,21 @@ Gioia, Joe. 2014. The Guitar and the New World: A Fugitive History. Albany: SUNY
 
 Daktar, Abraxas01. n.d. “Jimmie Rodgers – Blue Yodel No. 1 (T for Texas) Lyrics | Genius Lyrics.” Blue Yodel No. 1 (T for Texas) Lyrics. Accessed October 29, 2025. https://genius.com/Jimmie-rodgers-blue-yodel-no-1-t-for-texas-lyrics.
 
-On the trail of negro folk-songs : Scarborough, Dorothy, 1878-1935 : Free Download, Borrow, and Streaming : Internet Archive - Book Links to an external site.
+Scarborough, Dorothy, and Ola Lee Gulledge. On the Trail of Negro Folk-Songs. Harvard
+University Press, 1925
+https://archive.org/details/ontrailofnegrofo00scar/page/226/mode/2up?q=yodel
+Wise, Timothy. Jimmie Rodgers and the Semiosis of the Hillbilly Yodel. Musical Quarterly 93 (1):
+6–44, 2010. https://doi.org/10.1093/musqtl/gdp030
+Seward Daily Gateway. Singing Breakman Is Now An Exclusive and Popular Victor Artist.
+(Seward, AK), Jun. 21 1928. https://www.loc.gov/item/sn87062169/1928-06-21/ed-1/.
+Mike, ed. “Jimmie Rodgers - Waiting for a Train/Daddy andHome/BlueYodel.” YouTube,
+2007. https://www.youtube.com/watch?v=iyHulWOZBpk. (Attach next to text)
 
-Image 22 of The Washington times (Washington [D.C.]), October 18, 1927 | Library of Congress Links to an external site.
-
-Image 7 of Seward daily gateway (Seward, Alaska), June 21, 1928 | Library of Congress Links to an external site.
-
-Image 11 of San Antonio light (San Antonio, Tex.), October 22, 1934, (HOME EDITION) | Library of Congress Links to an external site.
-
-Victor Talking Machine Company sessions in Bristol, Tennessee Links to an external site. - by Ted Olson, Recording Registry: 2002 (P)
-
-Image 107 of Evening star Links to an external site. - Evening Star, Newspaper, October 20, 1957 (P)
-
-Image 7 of Steward daily Links to an external site. - Steward daily getaway, Newspaper, October 22, 1934 (P)
-
-Image 11 of San Antonio Light Links to an external site. - The San Antonio Light, Newspaper, October 22, 1934 (P) 300-350
- 
+Thompson, Clive. “How the Phonograph Changed Music Forever.” Smithsonian
+Magazine, January 2016 How the Phonograph Changed Music Forever
+White, Clyde. “Social Class Differences in the Uses of Leisure” American Journal of
+Sociology, Vol 61. No. 2 (1955): 146-147 Social Class Differences in the Uses of Leisure
+on JSTOR
+Olson, T. “The 1927 Bristol Sessions: The Big Bang, or the Big Brag, of Country Music?”
+Appalachian Journal, Vol 42. No 3 (2025): 262–283
+https://doi.org/10.1353/apl.2015.a955913
