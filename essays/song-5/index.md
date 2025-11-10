@@ -4,7 +4,7 @@ position: 5
 author: Student Name
 layout: base
 date: 2025-10-21
-thumbnail: essays/song-5/images/jimmie-rodgers-in-1921.jpg
+thumbnail: images/jimmie-rodgers-in-1921.jpg
 summary: Write the summary of your webpage here
 header-image: images/record-blue-yodel.jpeg.jpg
 header-title: 
