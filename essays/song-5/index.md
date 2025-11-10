@@ -120,8 +120,23 @@ In 1931, there was a drought that affected him greatly. It started with a few co
 
 
 
-## Yodeling
-During the refrain sections of the song there is yodeling that is the reason the name of the album is “Blue Yodel” was Rodgers unique style of yodeling and popularized American yodeling the way he yodeled was unique at the time and easy to replicate and follow along and became widespread.
+## What's the deal with the yodel?
+
+You may be wondering what is with the yodel Jimmie Rodgers performs between the stanzas of
+his songs, this was a defining piece of his work (Citation 4). We have to first understand where
+this yodeling came from, the yodeling heard in his songs originates from slaves vocalizing the
+similar yodels on and off the plantation during their capture (Citation 1). This unique type of
+yodeling is what Jimmie Rodgers incorporated into his songs and was known as a “blues yodel”,
+but since he was a country singer, the blend of these genres made him famous and a pioneer of
+the new subgenre. It had now become his trademark; you could hear his yodel in nearly every
+one of his songs (Citation 2). In his songs it's used to transition from stanza to stanza to keep
+the rhythm of the song going while adding emotional weight each time he performed it, but
+people didn’t just see this as a means of transitioning in the song but rather the main signature
+of the artist and what gave the song character (Citation 3). Jimmie Rodgers’ songs are
+particularly unique because of this element and some could argue he was as big as he was
+because of how unrepeatable and unique he made his songs with this new aspect he
+assimilated within country music. Though we may not hear this style as much today, Jimmie
+Rodgers’ yodel revolutionized country music and has left a lasting effect on the genre
 
 
 ## History of the song
@@ -129,7 +144,23 @@ The song Blue Yodel No. 1 (T for Texas) was origialy created in november 30 1927
 
 
 ## History Of Country Music
-Replace text
+Jimmie Rodger was a pioneer of country music, but what is country music and where did it
+come from? It was the late 19th century with the invention of the phonograph when music
+really shifted from being a group leisure activity to an individual leisure activity. People
+could now choose what they wanted to listen to and could even record music with it.
+Before the invention there were symphonies and orchestras but these were primarily
+leisure for the really wealthy, the phonograph made music accessible to the middle and
+working class not only to listen but to record as well (Citation 1). This level of accessibility
+allowed people like Jimmie Rodgers, a working man, to now access a means of
+expressing his thoughts and ideas (Citation 2). This leads us into the Bristol Sessions, a
+makeshift recording studio made by Victor Talking Machine Company in a hat factory to
+hopefully get talent for Victor Records. One of the people they had hosted was the country
+music catalyst himself, Jimmie Rodgers. He was one of the very first country music artists
+there was. Country music was being defined by instruments like fiddles and banjos and
+other elements like traditional ballads, gospel music, vaudeville songs, rustic comedy and
+instrumental showcases. Victor Talking Machine Company was able to record and host
+these musicians because of the phonograph (Citation 3). Due to the invention of the
+phonograph and the Bristol Sessions, what we now know as country music
 
 
 
