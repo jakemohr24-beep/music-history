@@ -101,7 +101,9 @@ The work of the Carter Family transformed the isolation of folk traditions, allo
   <p style="font-size:0.9em; color:#666; margin-top:8px;">
     Archival recording of <i>“Wildwood Flower” (1928)</i> performed by The Carter Family.
   </p>
-</div>
+</div> <!-- end text column -->
+</div> <!-- end flex row -->
+<div style="clear: both;"></div>
 
 
 ## “Wildwood Flower” and the Radio
