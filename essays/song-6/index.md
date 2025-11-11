@@ -4,9 +4,9 @@ position: 6
 author: Team Lebron
 layout: base
 date: 2025-10-21
-thumbnail: images/hot-notes-colors-6-brown.jpeg
+thumbnail: images/
 summary: Write the summary of your webpage here
-header-image: images/hot-notes-colors-6-brown.jpeg
+header-image: images/Maybelle-A.P.-Sarah-Carter.jpg
 header-title: 
 header-position: 0px
 geo: [37.88, -81.08]
