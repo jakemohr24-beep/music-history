@@ -104,19 +104,20 @@ The words in this song that during the time period would make sense are harder t
 ## Jimmie Rodgers
 {% include figure.html class="middle" width="60%" caption="" image-path="images/jimmie-rodgers-in-1921.jpg" %}
 
- "Who is Jimme Rodgers"
+  "Who is Jimme Rodgers"
 
  James Charles Rodgers, or also known as Jimmie Rodgers was a famous country and blues singer, as well as being the popular singer of the song T for Texas. He was born in 1897 in Meridian, Mississippi, he stayed there up until the death of his mother four years later. Jimmie Rodger's Father was left alone with a child as he worked as a foreman, because of his father's work, Jimmie Rodgers got exposed to the very thing that would make him famous!
 
-   You see, 10 years after his mother's dead, Jimmie dropped school and instead worked with his father in the rail roads. His job was to carry water for the African American workers, while he would work, "They taught him the guitar and the banjo. They taught him work songs, field hollers, chants" (Blue Yodeler: Jimmie Rodgers, Bland Simpson, Volume 12, 2006)
+ You see, 10 years after his mother's dead, Jimmie dropped school and instead worked with his father in the rail roads. His job was to carry water for the African American workers, while he would work, "They taught him the guitar and the banjo. They taught him work songs, field hollers, chants" (Blue Yodeler: Jimmie Rodgers, Bland Simpson, Volume 12, 2006)
 
-   When Jimmie returned to Meridian, he met a woman!
+When Jimmie returned to Meridian, he met a woman!
 
 A few years later, he and his wife had two young girls, Carrie Anita and June. Unfortunately, In December of 1923, June had died from, money was tight, he had a failed project, a failed marriage and a funeral to plan, with very little choice, Jimmie Rodgers was forced to go back to the railroads as a worker. While hard at work, Jimmie ended up in Colorado and Utah, where he seemed to not be able to catch a break, for you see, he ended up catching Tuberculous...the doctor said that he will need to quit his railroad work for good.  
 
-   Once he recovered, Jimmie and his sister-in-law would do public performances to try and gather some cash, however, this life bored him. Instead, he set off on his own, creating his own kind of yodel, the blue yodel. After this, Jimmie rogers' popularity skyrocketed! Even during the Stock Market crash in 1929, people couldn't get enough of him! 
+ Once he recovered, Jimmie and his sister-in-law would do public performances to try and gather some cash, however, this life bored him. Instead, he set off on his own, creating his own kind of yodel, the blue yodel. After this, Jimmie rogers' popularity skyrocketed! Even during the Stock Market crash in 1929, people couldn't get enough of him! 
 
-In 1931, there was a drought that affected him greatly. It started with a few coughs but eventually turned violent fits of Tuberculosis. His song releases dropped, as well as his health. Eventually he died in 1933. 
+In 1931, there was a drought that affected him greatly. It started with a few coughs but eventually turned violent fits of Tuberculosis. His song releases dropped, as well as his health. Eventually he died in 1933.                      
+
 
 
 
@@ -166,23 +167,22 @@ country music.
 
 
 ## How the world Responded
-   "How did the world react to Jimmie Rodgers songs"
+"How did the world react to Jimmie Rodgers songs"
 
  
 
-   "Mrs. Jimmie Rodgers, widow of the singer brakeman who became a national phenomenon and who died here last year..." writes The San Antonio Light Newspaper on October 22, in 1934. "His health broke down completely and he had to quit. All agreed that it was pretty tough for Jimmie...a lot of friends but no job and not enough strength to get and keep one. But Jimmie still wore the same old smile." was said in 1934, October 22nd by others at Steward daily getaway newspaper. 
+ "Mrs. Jimmie Rodgers, widow of the singer brakeman who became a national phenomenon and who died here last year..." writes The San Antonio Light Newspaper on October 22, in 1934. "His health broke down completely and he had to quit. All agreed that it was pretty tough for Jimmie...a lot of friends but no job and not enough strength to get and keep one. But Jimmie still wore the same old smile." was said in 1934, October 22nd by others at Steward daily getaway newspaper. 
 
-   When the world heard the name, Jimmie Rodger's, they thought of resilience, they thought of joy through and through. They thought of the strong hearted man who wrote songs about love and loss. On October 20th, 1957, Jimmie Rodger's song "Honeycomb" was ranked 4th most popular disk jockey in Washington D.C (Evening Star, 1957, Image 107), mind you, this was 24 years after his death. His hits were so popular, that even today, you can find songs of his on Spotify, his listener's count being over 55 thousand people monthly. 
+   When the world heard the name, Jimmie Rodger's, they thought of resilience, they thought of joy through and through. They thought of the strong hearted man who wrote songs about love and loss. On October 20th, 1957, Jimmie Rodger's song "Honeycomb" was ranked 4th most popular disk jockey in Washington D.C (Evening Star, 1957, Image 107), mind you, this was 24 years after his death. His hits were so popular, that even today, you can find songs of his on Spotify, his listener's count being over 55 thousand people monthly.
    
 
 {% include figure.html class="right" width="60%" caption="Jimmie Rodgers on Spotify. [Source](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN)" image-path="images/spotify-jimmie.jpeg.jpg" %}
 
    Looking at Spotify still, we can see that out of all of Jimmie Rodgers albums, Honeycomb is not second, the first spot being taken over by Kisses Sweet than Wine, written by Campbell and Ray Gilbert! Although he isn't a top hit today, the fact that his songs are still relevant to this day is absolutely stunning! 
 
-   Although not directly Jimme Rodgers, the Bristol Sessions, which Jimmie was a part of, is facing some backlash. "...Sustained focus on the 1927 Bristol sessions..." which had appeared to "...neglect of other early “hillbilly” music stories" according to Ted Olson of the National Recording Registry in 2002! The Bristol sessions were a series of recordings done in 1927.
+ Although not directly Jimme Rodgers, the Bristol Sessions, which Jimmie was a part of, is facing some backlash. "...Sustained focus on the 1927 Bristol sessions..." which had appeared to "...neglect of other early “hillbilly” music stories" according to Ted Olson of the National Recording Registry in 2002! The Bristol sessions were a series of recordings done in 1927.
 
-    
-   Still, Rodgers has been a called a national phenomenon and considered still, one of the founder fathers, if not,                                                                                                 THE father of country music. 
+Still, Rodgers has been a called a national phenomenon and considered still, one of the founder fathers, if not,                                                                                                THE father of country music. 
 
 
 
@@ -220,3 +220,17 @@ on JSTOR
 Olson, T. “The 1927 Bristol Sessions: The Big Bang, or the Big Brag, of Country Music?”
 Appalachian Journal, Vol 42. No 3 (2025): 262–283
 https://doi.org/10.1353/apl.2015.a955913
+
+   Project MUSE - Blue Yodeler: Jimmie Rodgers Links to an external site. - by Bland Simpson Volume 12, 2006 (S)
+
+   Meeting Jimmie Rodgers: How America's Original Roots Music Hero Changed the Pop Sounds of a Century - EBSCO Links to an external site. - Barry Mazor, 2011 (S)
+
+  Jimmie Rodgers: The Life and Times of America's Blue Yodeler Links to an external site. - Nolan Porterfield, Volume 125, 2012 (S)
+
+Victor Talking Machine Company sessions in Bristol, Tennessee Links to an external site. - by Ted Olson, Recording Registry: 2002 (P)
+
+Image 107 of Evening star Links to an external site. - Evening Star, Newspaper, October 20, 1957 (P)
+
+Image 7 of Steward daily Links to an external site. - Steward daily getaway, Newspaper, October 22, 1934 (P)
+
+Image 11 of San Antonio Light Links to an external site. - The San Antonio Light, Newspaper, October 22, 1934 (P)
