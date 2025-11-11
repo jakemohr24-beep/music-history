@@ -87,6 +87,18 @@ The work of the Carter Family transformed the isolation of folk traditions, allo
     </p>
   </div>
 </div>
+<div style="text-align:center; margin-top:30px;">
+  <iframe width="720" height="405"
+          src="https://www.youtube.com/embed/VIDEO_ID"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+  </iframe>
+  <p style="font-size:0.9em; color:#666; margin-top:8px;">
+    Video demonstration of Maybelle Carter’s “Carter Scratch” guitar technique.
+  </p>
+</div>
 
 
 ## “Wildwood Flower” and the Radio
@@ -154,6 +166,21 @@ The popularity of “Wildwood Flower” wasn't just an accident, but was the res
 The Carter family's rise in popularity at a national level could be attributed to the introduction of the radio, but also through touring, which furthered their popularity.
 Overall, the rise in fame of “Wildwood Flower” was caused by its ability to capture the human experiences and emotions through loss, resilience, and longing. The Carter Family didn't just preserve songs, but redefined them, creating a cornerstone for what became country music, a piece of American Cultural History. 
 
+Overall, the rise in fame of “Wildwood Flower” was caused by its ability to capture the human experiences and emotions through loss, resilience, and longing. The Carter Family didn't just preserve songs, but redefined them, creating a cornerstone for what became country music, a piece of American Cultural History.
+
+<div style="text-align:center; margin-top:30px;">
+  <iframe width="878" height="494"
+          src="https://www.youtube.com/embed/Xl_WWYQfUoQ"
+          title="The Carter Family - Wildwood Flower (1928)"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+  </iframe>
+  <p style="font-size:0.9em; color:#666; margin-top:8px;">
+    Archival recording of <i>“Wildwood Flower” (1928)</i> performed by The Carter Family.
+  </p>
+</div>
 
 
 ## The Lasting Impact
@@ -192,5 +219,5 @@ As the years went on, the Carter Family went through changes. A.P. and Sarah eve
 
 - Library of Congress. N.d. “”Wioldwood Flower’--The Carter Family(1928),”National recording preservation board.https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildwoodFlower.pdf
 
--“Article Clipped from Evening Herald Courier.” Newspapers.com, July 27, 1927. https://www.newspapers.com/article/evening-herald-courier/80539554/. 
+- “Article Clipped from Evening Herald Courier.” Newspapers.com, July 27, 1927. https://www.newspapers.com/article/evening-herald-courier/80539554/. 
 Atkins, John. “The Carter Family.” Essay. In Stars of Country Music: Uncle Dave Macon to Johnny Rodriguez, 95–118. Chicago, Illinois: University of Illinois Press, 1975.
