@@ -196,21 +196,22 @@ As the years went on, the Carter Family went through changes. A.P. and Sarah eve
 
 - Stone, Rolling, and Rolling Stone. [“Porter Wagoner, ‘a Satisfied Mind.’”](https://au.rollingstone.com/music/music-lists/the-200-greatest-country-songs-of-all-time-60414/porter-wagoner-a-satisfied-mind-60585/) Rolling Stone Australia, May 27, 2024.  
 
-- [“Wildwood flower”—the Carter Family (1928). Accessed October 29, 2025. https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildwoodFlower.pdf.
+- [“Wildwood flower”](https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildwoodFlower.pdf)—the Carter Family (1928). Accessed October 29, 2025. .
 
-- McCulloh, Judith. “Hillbilly Records and Tune Transcriptions.” Western Folklore 26, no. 4 (1967): 225–44. https://doi.org/10.2307/1499326.
+- McCulloh, Judith. [“Hillbilly Records and Tune Transcriptions.”](https://doi.org/10.2307/1499326) Western Folklore 26, no. 4 (1967): 225–44. 
 
-- “Wildwood flower”—the Carter Family (1928). Accessed October 29, 2025. https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Wildwood-Flower_Carlene-Carter.pdf. 
+- [“Wildwood flower”](https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Wildwood-Flower_Carlene-Carter.pdf)—the Carter Family (1928). Accessed October 29, 2025. 
 
 - Boyd, Laiken. "The Carter Family And Hazel & Alice: A Comparison Of Musical Influences And Changing Gender Norms." PhD diss., Appalachian State University, 2025.
 
-- Early radio history. 1901.” first authentic experiments in Wireless telegraphy.” Early radio history. https://earlyradiohistory.us/1901fae.htm
+- Early radio history. 1901. [”First authentic experiments in Wireless telegraphy.”](https://earlyradiohistory.us/1901fae.htm) Early radio history. https://earlyradiohistory.us/1901fae.htm
 
-- Birthplace of country music museum. 2021.” The Carter family on the border radio.” Birthplace of country music.https://birthplaceofcountrymusic.org/the-carter-family-on-the-border-radio/
+- Birthplace of country music museum. 2021. [”The Carter family on the border radio.”](https://birthplaceofcountrymusic.org/the-carter-family-on-the-border-radio/) Birthplace of country music.
 
-- Webster, Joseph P., and Maud Irving. 1860. “I’ll Twine ‘mid the ringlets.” Chicago: H.M. Higgins. https://www.loc.gov/item/sm1860.380940/
+- Webster, Joseph P., and Maud Irving. 1860. [“I’ll Twine ‘mid the ringlets.”](https://www.loc.gov/item/sm1860.380940/) Chicago: H.M. Higgins. 
 
-- Library of Congress. N.d. “”Wioldwood Flower’--The Carter Family(1928),”National recording preservation board.https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildwoodFlower.pdf
-
-- “Article Clipped from Evening Herald Courier.” Newspapers.com, July 27, 1927. https://www.newspapers.com/article/evening-herald-courier/80539554/. 
-Atkins, John. “The Carter Family.” Essay. In Stars of Country Music: Uncle Dave Macon to Johnny Rodriguez, 95–118. Chicago, Illinois: University of Illinois Press, 1975.
+- Library of Congress. N.d. ["'Wildwood Flower’--The Carter Family(1928),”](https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildwoodFlower.pdf) National recording preservation board.
+  
+- [“Article Clipped from Evening Herald Courier.”](https://www.newspapers.com/article/evening-herald-courier/80539554/) Newspapers.com, July 27, 1927.
+  
+- Atkins, John. “The Carter Family.” Essay. In Stars of Country Music: Uncle Dave Macon to Johnny Rodriguez, 95–118. Chicago, Illinois: University of Illinois Press, 1975.
