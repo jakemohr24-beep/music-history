@@ -131,7 +131,12 @@ music (Atkins 1975).
       the use of technology amplified human expression. “Wildwood Flower” is a testament to how art and technology can be used together.
     </p>
   </div>
-
+{% include figure.html 
+class="right" 
+width="48%" 
+caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" 
+image-path="images/Clipping.jpeg" 
+%}
   <img src="images/Clipping.jpeg" alt="Evening Herald Courier 1927 article on mountain music recordings"
        style="width: 320px; border-radius: 10px; box-shadow: 0 0 8px rgba(0,0,0,0.25);">
 </div>
@@ -192,7 +197,7 @@ As the years went on, the Carter Family went through changes. A.P. and Sarah eve
 
 - Home | Carter Family Fold and music center. Accessed October 29, 2025. https://carterfamilyfold.org/. 
 
-- Spottswood, Dick. “‘Wildwood Flower.’” NPR, December 14, 2000. https://www.npr.org/2000/12/14/1115495/wildwood-flower.
+- Spottswood, Dick. [“‘Wildwood Flower.’”](https://www.npr.org/2000/12/14/1115495/wildwood-flower) NPR, December 14, 2000. 
 
 - Stone, Rolling, and Rolling Stone. “Porter Wagoner, ‘a Satisfied Mind.’” Rolling Stone Australia, May 27, 2024. https://au.rollingstone.com/music/music-lists/the-200-greatest-country-songs-of-all-time-60414/porter-wagoner-a-satisfied-mind-60585/. 
 
