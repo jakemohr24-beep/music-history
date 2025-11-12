@@ -66,7 +66,7 @@ The work of the Carter Family transformed the isolation of folk traditions, allo
 {% include figure.html 
 class="right" 
 width="48%" 
-caption="Maybelle Carter playing guitar" 
+caption="Maybelle Carter guitar" 
 image-path="images/Maybelle-Gibson-CMHofFM-675x1024.jpg" 
 %} 
 
