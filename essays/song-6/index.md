@@ -28,7 +28,7 @@ Bristol, Virginia, composed of six songs (Library of Congress 2006).
 {% include figure.html 
 class="right" 
 width="48%" 
-caption="Carter-Family.jpg" 
+caption="The Carter Family" 
 image-path="images/Carter-Family.jpg" 
 %}   
 
@@ -63,31 +63,27 @@ The work of the Carter Family transformed the isolation of folk traditions, allo
 <div style="clear: both;"></div>
 
 ## The Carter Scratch
- 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px;">
-  <img src="images/Maybelle-Gibson-CMHofFM-675x1024.jpg" alt="Maybelle Carter playing guitar" 
-       style="width: 280px; border-radius: 10px; box-shadow: 0 0 8px rgba(0,0,0,0.2);">
+{% include figure.html 
+class="right" 
+width="48%" 
+caption="Maybelle Carter playing guitar" 
+image-path="images/Maybelle-Gibson-CMHofFM-675x1024.jpg" 
+%} 
 
-  <div style="flex: 1;">
-    <p>
-      A black musician named Lesley Riddle was a great influence on the Carter Family. Riddle would accompany A.P. when he went out looking for music from time to time. 
-      If A.P. forgot melodies, he depended on Riddle to help remember. He had his own songs that the family would later use and record, though he wasn’t paid for these songs. 
-      Along with writing his own music, Riddle played guitar, and Maybelle was greatly influenced by his style, which led to her distinct style of guitar playing (Malone 1975).
-    </p>
-    <p>
-      With the rise in folk music, Mayabelle Carter created a unique guitar style called “The Carter Scratch”, which carried both rhythm and melody in their songs (NPR 2000). 
-      The Carter Scratch was done by playing the melody on the bass strings while also rhythmically strumming higher strings, allowing her to play both the lead and rhythm at 
-      the same time (Climer 2008). The Carter Scratch inspired many upcoming guitarists, defining the unique sounds associated with folk and country music.
-    </p>
-    <p>
-      During this period, the guitar was primarily used as a part of the background, rarely taking center stage during performances. Maybelle’s technique broke this tradition, 
-      turning the guitar into a rhythmic and melodic instrument and allowing her to accompany herself without needing a second musician. Following this revelation, the Carter Scratch 
-      became one of the most studied techniques throughout early folk music, with Maybelle being a major influence for upcoming artists. Beyond this innovation, the Carter Scratch 
-      became a symbol original to the Carter Family — one that blends tradition with creativity while continuing with its authenticity and honesty, a central theme of country and folk 
-      music (Atkins 1975).
-    </p>
+A black musician named Lesley Riddle was a great influence on the Carter Family. Riddle would accompany A.P. when he went out looking for music from time to time. 
+If A.P. forgot melodies, he depended on Riddle to help remember. He had his own songs that the family would later use and record, though he wasn’t paid for these songs. 
+Along with writing his own music, Riddle played guitar, and Maybelle was greatly influenced by his style, which led to her distinct style of guitar playing (Malone 1975).
+    
+With the rise in folk music, Mayabelle Carter created a unique guitar style called “The Carter Scratch”, which carried both rhythm and melody in their songs (NPR 2000). 
+The Carter Scratch was done by playing the melody on the bass strings while also rhythmically strumming higher strings, allowing her to play both the lead and rhythm at 
+the same time (Climer 2008). The Carter Scratch inspired many upcoming guitarists, defining the unique sounds associated with folk and country music.
+    
+During this period, the guitar was primarily used as a part of the background, rarely taking center stage during performances. Maybelle’s technique broke this tradition, 
+turning the guitar into a rhythmic and melodic instrument and allowing her to accompany herself without needing a second musician. Following this revelation, the Carter Scratch 
+became one of the most studied techniques throughout early folk music, with Maybelle being a major influence for upcoming artists. Beyond this innovation, the Carter Scratch 
+became a symbol original to the Carter Family — one that blends tradition with creativity while continuing with its authenticity and honesty, a central theme of country and folk 
+music (Atkins 1975).
 
-  <div style="text-align:center; margin-top:30px;">
   <iframe width="640" height="360"
           src="https://www.youtube.com/embed/Xl_WWYQfUoQ"
           title="The Carter Family - Wildwood Flower (1928)"
@@ -97,14 +93,7 @@ The work of the Carter Family transformed the isolation of folk traditions, allo
           allowfullscreen
           style="max-width:100%; border-radius:10px;">
   </iframe>
-  <p style="font-size:0.9em; color:#666; margin-top:8px;">
-    Archival recording of <i>“Wildwood Flower” (1928)</i> performed by The Carter Family.
-  </p>
-</div> <!-- end text column -->
-</div> <!-- end flex row -->
-<div style="clear: both;"></div>
-
-
+ 
 ## “Wildwood Flower” and the Radio
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; margin-bottom: 30px;">
   <div style="flex: 1;">
